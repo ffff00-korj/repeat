@@ -13,7 +13,7 @@ git clone https://github.com/ffff00-korj/repeat
 # copy somewhere in PATH. For example:
 cp repeat/repeat ~/.local/bin/
 # try repeat something
-repeat 3 I repeat!
+repeat 3 echo I repeat!
 I repeat!
 I repeat!
 I repeat!
