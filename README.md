@@ -46,6 +46,20 @@ Hello, World!
 Hello, World!
 Hello, World!
 ```
+#### Or maybe you on Windows
+
+One of two should work
+```bash
+python repeat 3 echo Hello, World!
+```
+```bash
+py repeat 3 echo Hello, World!
+```
+```
+Hello, World!
+Hello, World!
+Hello, World!
+```
 #### Wrong usage
 ```bash
 repeat echo Hello, World! 3
