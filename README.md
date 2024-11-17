@@ -13,7 +13,7 @@ git clone https://github.com/ffff00-korj/repeat
 # copy somewhere in PATH. For example:
 cp repeat/repeat ~/.local/bin/
 # try repeat something
-repeat 3 "I repeat!"
+repeat 3 I repeat!
 I repeat!
 I repeat!
 I repeat!
@@ -23,20 +23,20 @@ I repeat!
 
 #### Like a normal terminal utility (if you have /bin/python3)
 ```bash
-./repeat 3 "echo Hello, World!"
+repeat 3 echo Hello, World!
 Hello, World!
 Hello, World!
 Hello, World!
 ```
 #### Or with python
 ```bash
-python3 ./repeat 3 "echo Hello, World!"
+python3 repeat 3 echo Hello, World!
 Hello, World!
 Hello, World!
 Hello, World!
 ```
 #### Wrong usage
 ```bash
-./repeat "echo Hello, World!" 3
+repeat echo Hello, World! 3
 ERROR:root:first argument should be a number.
 ```
