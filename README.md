@@ -46,7 +46,7 @@ Hello, World!
 Hello, World!
 Hello, World!
 ```
-#### Or maybe you on Windows
+#### Or on Windows
 
 One of two should work
 ```bash
