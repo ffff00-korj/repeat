@@ -6,6 +6,19 @@ Need to send something 1000 or more times and don't want to write script for it?
 
 * Python 3.*
 
+### Installation
+```bash
+# clone
+git clone https://github.com/ffff00-korj/repeat
+# copy somewhere in PATH. For example:
+cp repeat/repeat ~/.local/bin/
+# try repeat something
+repeat 3 "I repeat!"
+I repeat!
+I repeat!
+I repeat!
+# DONE!
+```
 ### Examples
 
 #### Like a normal terminal utility
