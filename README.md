@@ -4,7 +4,7 @@ Need to send something 1000 or more times and don't want to write script for it?
 
 ### Requirements
 
-* Python > 3
+* Python >= 3
 
 ### Installation
 
