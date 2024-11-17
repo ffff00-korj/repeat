@@ -23,14 +23,14 @@ I repeat!
 
 #### Like a normal terminal utility (if you have /bin/python3)
 ```bash
-./repeat 3 "echo Hello, World!"  
+./repeat 3 "echo Hello, World!"
 Hello, World!
 Hello, World!
 Hello, World!
 ```
 #### Or with python
 ```bash
-python3 ./repeat 3 "echo Hello, World!"  
+python3 ./repeat 3 "echo Hello, World!"
 Hello, World!
 Hello, World!
 Hello, World!
