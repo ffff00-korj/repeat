@@ -21,7 +21,7 @@ I repeat!
 ```
 ### Examples
 
-#### Like a normal terminal utility
+#### Like a normal terminal utility (if you have /bin/python3)
 ```bash
 ./repeat 3 "echo Hello, World!"  
 Hello, World!
@@ -35,7 +35,7 @@ Hello, World!
 Hello, World!
 Hello, World!
 ```
-#### Won't work. Argument are positional
+#### Wrong usage
 ```bash
 ./repeat "echo Hello, World!" 3
 ERROR:root:first argument should be a number.
